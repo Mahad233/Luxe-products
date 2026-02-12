@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Luxe Products",
+  "description": "A premium affiliate marketing platform featuring curated luxury items, AI-powered personal styling, and bespoke product discovery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
